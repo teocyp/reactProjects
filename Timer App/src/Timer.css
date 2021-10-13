@@ -1,0 +1,23 @@
+.start {
+  margin-right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  background-color: deepskyblue;
+  color: white;
+}
+
+.counter {
+  color: black;
+}
+
+.stop {
+  margin-right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  background-color: darkred;
+  color: white;
+}
