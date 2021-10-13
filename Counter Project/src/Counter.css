@@ -1,0 +1,29 @@
+h1 {
+  color: turquoise;
+}
+
+span {
+  color: darkred;
+}
+
+button {
+  margin-right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.increase {
+  background-color: orange;
+  color: white;
+}
+
+.reset {
+  background-color: deepskyblue;
+  color: white;
+}
+
+.decrease {
+  background-color: greenyellow;
+}
